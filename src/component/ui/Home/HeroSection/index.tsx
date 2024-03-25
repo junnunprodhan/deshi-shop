@@ -1,10 +1,10 @@
 "use client";
 import "./HeroSection.css";
 import React, { useEffect, useState } from "react";
-import slider from "../../../../assets/images/slider2.webp";
-import slider2 from "../../../../assets/images/categories.webp";
-import slider3 from "../../../../assets/images/flash8.png";
-import slider4 from "../../../../assets/images/explore.png";
+import slider from "../../../../assets/images/fresh-oil.jpg";
+import slider2 from "../../../../assets/images/keya-soap.jpg";
+import slider3 from "../../../../assets/images/sunsilk-shampoo.webp";
+import slider4 from "../../../../assets/images/lux-soap.jpg";
 import slider6 from "../../../../assets/images/slider3.webp";
 import slider7 from "../../../../assets/images/slider4.webp";
 import slider8 from "../../../../assets/images/slider5.jpg";
@@ -65,13 +65,13 @@ export default function HeroSection() {
                 <div className="flex items-center sliderContentWrap">
                   <div className="sliderContent">
                     <h3 className="text-5xl font-semibold uppercase">
-                      The New standard
+                    Fresh Oil
                     </h3>
-                    <p className="my-3">NeoTech Edge: Unveiling Simplicity</p>
+                    <p className="my-3">very good products, you can buy</p>
                     <small>FROM</small>
                     <div className=" flex items-center ">
                       <sup className="text-2xl font-semibold">$</sup>
-                      <span className="text-5xl font-bold">799</span>
+                      <span className="text-5xl font-bold">197</span>
                       <sup className="text-xl font-semibold">99</sup>
                     </div>
                     <Button>Start Buying</Button>
@@ -83,9 +83,9 @@ export default function HeroSection() {
                 <div className="flex items-center sliderContentWrap">
                   <div className="sliderContent">
                     <h3 className="text-5xl font-semibold uppercase">
-                      The New standard
+                      Keya Soap
                     </h3>
-                    <p className="my-3">NeoTech Edge: Unveiling Simplicity</p>
+                    <p className="my-3">very good products, you can buy</p>
                     <small>FROM</small>
                     <div className=" flex items-center ">
                       <sup className="text-2xl font-semibold">$</sup>
@@ -104,9 +104,9 @@ export default function HeroSection() {
                 <div className="flex items-center sliderContentWrap">
                   <div className="sliderContent">
                     <h3 className="text-5xl font-semibold uppercase">
-                      The New standard
+                      Sunsilk Shampoo
                     </h3>
-                    <p className="my-3">NeoTech Edge: Unveiling Simplicity</p>
+                    <p className="my-3">very good products, you can buy</p>
                     <small>FROM</small>
                     <div className=" flex items-center ">
                       <sup className="text-2xl font-semibold">$</sup>
@@ -127,7 +127,7 @@ export default function HeroSection() {
                     <h3 className="text-5xl font-semibold uppercase">
                       The New standard
                     </h3>
-                    <p className="my-3">NeoTech Edge: Unveiling Simplicity</p>
+                    <p className="my-3">very good products, you can buy</p>
                     <small>FROM</small>
                     <div className=" flex items-center ">
                       <sup className="text-2xl font-semibold">$</sup>
@@ -148,7 +148,7 @@ export default function HeroSection() {
                     <h3 className="text-5xl font-semibold uppercase">
                       The New standard
                     </h3>
-                    <p className="my-3">NeoTech Edge: Unveiling Simplicity</p>
+                    <p className="my-3">very good products, you can buy</p>
                     <small>FROM</small>
                     <div className=" flex items-center ">
                       <sup className="text-2xl font-semibold">$</sup>
@@ -169,7 +169,7 @@ export default function HeroSection() {
                     <h3 className="text-5xl font-semibold uppercase">
                       The New standard
                     </h3>
-                    <p className="my-3">NeoTech Edge: Unveiling Simplicity</p>
+                    <p className="my-3">very good products, you can buy</p>
                     <small>FROM</small>
                     <div className=" flex items-center ">
                       <sup className="text-2xl font-semibold">$</sup>
@@ -190,7 +190,7 @@ export default function HeroSection() {
                     <h3 className="text-5xl font-semibold uppercase">
                       The New standard
                     </h3>
-                    <p className="my-3">NeoTech Edge: Unveiling Simplicity</p>
+                    <p className="my-3">very good products, you can buy</p>
                     <small>FROM</small>
                     <div className=" flex items-center ">
                       <sup className="text-2xl font-semibold">$</sup>
@@ -211,7 +211,7 @@ export default function HeroSection() {
                     <h3 className="text-5xl font-semibold uppercase">
                       The New standard
                     </h3>
-                    <p className="my-3">NeoTech Edge: Unveiling Simplicity</p>
+                    <p className="my-3">very good products, you can buy</p>
                     <small>FROM</small>
                     <div className=" flex items-center ">
                       <sup className="text-2xl font-semibold">$</sup>
@@ -232,7 +232,7 @@ export default function HeroSection() {
                     <h3 className="text-5xl font-semibold uppercase">
                       The New standard
                     </h3>
-                    <p className="my-3">NeoTech Edge: Unveiling Simplicity</p>
+                    <p className="my-3">very good products, you can buy</p>
                     <small>FROM</small>
                     <div className=" flex items-center ">
                       <sup className="text-2xl font-semibold">$</sup>

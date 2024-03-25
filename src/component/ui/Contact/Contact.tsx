@@ -1,6 +1,5 @@
 "use client";
 import React from "react";
-import ContactInfo from "./ContactInfo";
 import ContactForm from "./ContactForm";
 
 const Contact = () => {
@@ -14,8 +13,7 @@ const Contact = () => {
           parenting journey smoother and more enjoyable
         </p>
       </div>
-      <div className=" grid grid-cols-1 md:grid-cols-2">
-        <ContactInfo />
+      <div className=" w-2/3 mx-auto">
         <ContactForm />
       </div>
     </div>
