@@ -5,7 +5,6 @@ import slider from "../../../../assets/images/slider2.webp";
 import slider2 from "../../../../assets/images/categories.webp";
 import slider3 from "../../../../assets/images/flash8.png";
 import slider4 from "../../../../assets/images/explore.png";
-import slider5 from "../../../../assets/images/explore2.png";
 import slider6 from "../../../../assets/images/slider3.webp";
 import slider7 from "../../../../assets/images/slider4.webp";
 import slider8 from "../../../../assets/images/slider5.jpg";
@@ -68,7 +67,7 @@ export default function HeroSection() {
                     <h3 className="text-5xl font-semibold uppercase">
                       The New standard
                     </h3>
-                    <p className="my-3">"NeoTech Edge: Unveiling Simplicity"</p>
+                    <p className="my-3">NeoTech Edge: Unveiling Simplicity</p>
                     <small>FROM</small>
                     <div className=" flex items-center ">
                       <sup className="text-2xl font-semibold">$</sup>
@@ -86,7 +85,7 @@ export default function HeroSection() {
                     <h3 className="text-5xl font-semibold uppercase">
                       The New standard
                     </h3>
-                    <p className="my-3">"NeoTech Edge: Unveiling Simplicity"</p>
+                    <p className="my-3">NeoTech Edge: Unveiling Simplicity</p>
                     <small>FROM</small>
                     <div className=" flex items-center ">
                       <sup className="text-2xl font-semibold">$</sup>
@@ -107,7 +106,7 @@ export default function HeroSection() {
                     <h3 className="text-5xl font-semibold uppercase">
                       The New standard
                     </h3>
-                    <p className="my-3">"NeoTech Edge: Unveiling Simplicity"</p>
+                    <p className="my-3">NeoTech Edge: Unveiling Simplicity</p>
                     <small>FROM</small>
                     <div className=" flex items-center ">
                       <sup className="text-2xl font-semibold">$</sup>
@@ -128,7 +127,7 @@ export default function HeroSection() {
                     <h3 className="text-5xl font-semibold uppercase">
                       The New standard
                     </h3>
-                    <p className="my-3">"NeoTech Edge: Unveiling Simplicity"</p>
+                    <p className="my-3">NeoTech Edge: Unveiling Simplicity</p>
                     <small>FROM</small>
                     <div className=" flex items-center ">
                       <sup className="text-2xl font-semibold">$</sup>
@@ -149,7 +148,7 @@ export default function HeroSection() {
                     <h3 className="text-5xl font-semibold uppercase">
                       The New standard
                     </h3>
-                    <p className="my-3">"NeoTech Edge: Unveiling Simplicity"</p>
+                    <p className="my-3">NeoTech Edge: Unveiling Simplicity</p>
                     <small>FROM</small>
                     <div className=" flex items-center ">
                       <sup className="text-2xl font-semibold">$</sup>
@@ -170,7 +169,7 @@ export default function HeroSection() {
                     <h3 className="text-5xl font-semibold uppercase">
                       The New standard
                     </h3>
-                    <p className="my-3">"NeoTech Edge: Unveiling Simplicity"</p>
+                    <p className="my-3">NeoTech Edge: Unveiling Simplicity</p>
                     <small>FROM</small>
                     <div className=" flex items-center ">
                       <sup className="text-2xl font-semibold">$</sup>
@@ -191,7 +190,7 @@ export default function HeroSection() {
                     <h3 className="text-5xl font-semibold uppercase">
                       The New standard
                     </h3>
-                    <p className="my-3">"NeoTech Edge: Unveiling Simplicity"</p>
+                    <p className="my-3">NeoTech Edge: Unveiling Simplicity</p>
                     <small>FROM</small>
                     <div className=" flex items-center ">
                       <sup className="text-2xl font-semibold">$</sup>
@@ -212,7 +211,7 @@ export default function HeroSection() {
                     <h3 className="text-5xl font-semibold uppercase">
                       The New standard
                     </h3>
-                    <p className="my-3">"NeoTech Edge: Unveiling Simplicity"</p>
+                    <p className="my-3">NeoTech Edge: Unveiling Simplicity</p>
                     <small>FROM</small>
                     <div className=" flex items-center ">
                       <sup className="text-2xl font-semibold">$</sup>
@@ -233,7 +232,7 @@ export default function HeroSection() {
                     <h3 className="text-5xl font-semibold uppercase">
                       The New standard
                     </h3>
-                    <p className="my-3">"NeoTech Edge: Unveiling Simplicity"</p>
+                    <p className="my-3">NeoTech Edge: Unveiling Simplicity</p>
                     <small>FROM</small>
                     <div className=" flex items-center ">
                       <sup className="text-2xl font-semibold">$</sup>

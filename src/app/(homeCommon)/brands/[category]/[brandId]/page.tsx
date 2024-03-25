@@ -9,7 +9,7 @@ const BrandDetails = async ({
   params: { category: string; brandId: string };
 }) => {
   console.log(params)
-  const res = await fetch(`http://localhost:5000/drink/${params.brandId}`);
+  const res = await fetch(`https://deshi-shop-server.vercel.app/products/${params.brandId}`);
   const data = await res.json();
   console.log(data);
 

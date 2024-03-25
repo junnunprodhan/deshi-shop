@@ -4,7 +4,7 @@ import BrandHeader from "@/component/BrandHeader";
 
 const page = async () => {
 
-  const res = await fetch("http://localhost:5000/products");
+  const res = await fetch("https://deshi-shop-server.vercel.app/products");
   const data = await res.json();
 
   const filter = data.filter((brand: TProduct) => brand.isFlash === false);

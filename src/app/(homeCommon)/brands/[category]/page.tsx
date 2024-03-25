@@ -6,7 +6,7 @@ import CategoryCard from "@/component/CategoryCard";
 const CategoryPage = async ({ params }: { params: { category: string } }) => {
  console.log(params)
   const BrandCategory = params.category;
-  const res = await fetch(`http://localhost:5000/brands/${BrandCategory}`, {
+  const res = await fetch(`https://deshi-shop-server.vercel.app//brands/${BrandCategory}`, {
     next: { revalidate: 30 },
   });
   const brands = await res.json();

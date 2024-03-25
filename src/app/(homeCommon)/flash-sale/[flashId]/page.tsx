@@ -14,7 +14,7 @@ import BrandHeader from "@/component/BrandHeader";
 // };
 
 const FlashDetailsPage = async ({ params }: { params: any }) => {
-  const res = await fetch(`http://localhost:5000/product/${params?.flashId}`);
+  const res = await fetch(`https://deshi-shop-server.vercel.app/product/${params?.flashId}`);
   const sale = await res.json();
   const product = sale as TProduct[];
   

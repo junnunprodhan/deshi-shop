@@ -49,27 +49,27 @@ const Header = () => {
             </li>
             <li className="group flex  cursor-pointer flex-col">
               <Link href={"/flash-sale"}>Flash Sale</Link>
-              <span className="mt-[2px] h-[3px]  w-[0px] rounded-full bg-yellow-500 transition-all duration-300 group-hover:w-full"></span>
+              <span className="mt-[2px] h-[3px]  w-[0px] rounded-full bg-[#2C7865] transition-all duration-300 group-hover:w-full"></span>
             </li>
             <li className="group flex  cursor-pointer flex-col">
               <Link href={"/brands"}>Brands</Link>
-              <span className="mt-[2px] h-[3px]  w-[0px] rounded-full bg-yellow-500 transition-all duration-300 group-hover:w-full"></span>
+              <span className="mt-[2px] h-[3px]  w-[0px] rounded-full bg-[#2C7865] transition-all duration-300 group-hover:w-full"></span>
             </li>
             <li className="group flex  cursor-pointer flex-col">
               <Link href={"/products"}>Products</Link>
-              <span className="mt-[2px] h-[3px]  w-[0px] rounded-full bg-yellow-500 transition-all duration-300 group-hover:w-full"></span>
+              <span className="mt-[2px] h-[3px]  w-[0px] rounded-full bg-[#2C7865] transition-all duration-300 group-hover:w-full"></span>
             </li>
             <li className="group flex  cursor-pointer flex-col">
               <Link href={"/dashboard/all-products"}>Dashboard</Link>
-              <span className="mt-[2px] h-[3px]  w-[0px] rounded-full bg-yellow-500 transition-all duration-300 group-hover:w-full"></span>
+              <span className="mt-[2px] h-[3px]  w-[0px] rounded-full bg-[#2C7865] transition-all duration-300 group-hover:w-full"></span>
             </li>
             <li className="group flex  cursor-pointer flex-col">
               <Link href={"/login"}>Login</Link>
-              <span className="mt-[2px] h-[3px]  w-[0px] rounded-full bg-yellow-500 transition-all duration-300 group-hover:w-full"></span>
+              <span className="mt-[2px] h-[3px]  w-[0px] rounded-full bg-[#2C7865] transition-all duration-300 group-hover:w-full"></span>
             </li>
             <li className="group flex  cursor-pointer flex-col">
               <Link href={"/register"}>Register</Link>
-              <span className="mt-[2px] h-[3px]  w-[0px] rounded-full bg-yellow-500 transition-all duration-300 group-hover:w-full"></span>
+              <span className="mt-[2px] h-[3px]  w-[0px] rounded-full bg-[#2C7865] transition-all duration-300 group-hover:w-full"></span>
             </li>
           </div>
         </div>
