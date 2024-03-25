@@ -1,0 +1,634 @@
+[
+  {
+    "isFlash": true,
+    "discountEndDate": "2024-03-22",
+    "price": 230,
+    "discountPrice": 200,
+    "name": "Whole Milk",
+    "category": "Milk",
+    "image": "https://metro-b2c.s3.ap-southeast-1.amazonaws.com/Misc/1686560126390",
+    "description": "Whole cow's milk, a rich source of calcium and vitamin D essential for baby's bone health and growth.",
+    "nutrients": {
+      "vitamins": ["Vitamin D", "Vitamin B12"],
+      "minerals": ["Calcium", "Phosphorus"]
+    },
+    "rating": 4.2
+  },
+  {
+    "isFlash": true,
+    "discountEndDate": "2024-03-22",
+    "price": 230,
+    "discountPrice": 200,
+    "name": "Horlicks Junior",
+
+    "category": "Supplements",
+    "image": "https://i.ibb.co/txDgNGr/horlix.webp",
+    "description": "Horlicks Junior, a nutritional supplement fortified with essential vitamins and minerals to support overall growth and development in children.",
+    "nutrients": {
+      "vitamins": ["Vitamin A", "Vitamin C", "Vitamin D"],
+      "minerals": ["Calcium", "Iron", "Zinc"]
+    },
+    "rating": 4.1
+  },
+  {
+    "isFlash": false,
+    "discountEndDate": "2024-03-22",
+    "price": 240,
+    "name": "Apple Puree",
+
+    "category": "Fruits",
+    "image": "https://i.ibb.co/txDgNGr/horlix.webp",
+    "description": "Smooth puree made from fresh apples, providing natural sweetness and essential vitamins for baby's growth.",
+    "nutrients": {
+      "vitamins": ["Vitamin C", "Vitamin A"],
+      "minerals": ["Potassium"]
+    },
+    "rating": 4.8
+  },
+  {
+    "isFlash": true,
+    "discountEndDate": "2024-03-22",
+    "price": 210,
+    "discountPrice": 200,
+    "name": "Carrot Mash",
+
+    "category": "Vegetables",
+    "image": "https://i.ibb.co/txDgNGr/horlix.webp",
+    "description": "Soft mashed carrots, rich in beta-carotene and fiber, ideal for introducing vegetables to your baby's diet.",
+    "nutrients": {
+      "vitamins": ["Vitamin A", "Vitamin K"],
+      "minerals": ["Folate", "Calcium"]
+    },
+    "rating": 4.1
+  },
+  {
+    "isFlash": true,
+    "discountEndDate": "2024-03-22",
+    "price": 290,
+    "discountPrice": 200,
+    "name": "Rice Cereal",
+
+    "category": "Grains",
+    "image": "https://i.ibb.co/txDgNGr/horlix.webp",
+    "description": "Gentle rice cereal, easy to digest and fortified with essential nutrients like iron and zinc for baby's development.",
+    "nutrients": {
+      "vitamins": ["Vitamin B", "Vitamin D"],
+      "minerals": ["Iron", "Zinc"]
+    },
+    "rating": 4.5
+  },
+  {
+    "isFlash": true,
+    "discountEndDate": "2024-03-22",
+    "price": 250,
+    "discountPrice": 200,
+    "name": "Mashed Banana",
+
+    "category": "Fruits",
+    "image": "https://i.ibb.co/txDgNGr/horlix.webp",
+    "description": "Creamy mashed bananas, packed with potassium and natural sweetness, perfect for early stages of weaning.",
+    "nutrients": {
+      "vitamins": ["Vitamin B6", "Vitamin C"],
+      "minerals": ["Potassium", "Magnesium"]
+    },
+    "rating": 5
+  },
+  {
+    "isFlash": true,
+    "discountEndDate": "2024-03-22",
+    "price": 230,
+    "discountPrice": 200,
+    "name": "Pea Puree",
+
+    "category": "Vegetables",
+    "image": "https://i.ibb.co/txDgNGr/horlix.webp",
+    "description": "Smooth puree made from peas, offering a burst of green goodness and vital nutrients for your baby's health.",
+    "nutrients": {
+      "vitamins": ["Vitamin K", "Vitamin C"],
+      "minerals": ["Iron", "Folate"]
+    },
+    "rating": 3
+  },
+  {
+    "isFlash": false,
+    "discountEndDate": "2024-03-22",
+    "price": 230,
+    "name": "Oatmeal Porridge",
+
+    "category": "Grains",
+    "image": "https://i.ibb.co/txDgNGr/horlix.webp",
+    "description": "Warm and comforting oatmeal porridge, enriched with fiber and essential vitamins, promoting healthy digestion and growth.",
+    "nutrients": {
+      "vitamins": ["Vitamin E", "Vitamin B"],
+      "minerals": ["Calcium", "Magnesium"]
+    },
+    "rating": 4.3
+  },
+  {
+    "isFlash": true,
+    "discountEndDate": "2024-03-22",
+    "price": 330,
+    "discountPrice": 200,
+    "name": "Mashed Avocado",
+
+    "category": "Proteins",
+    "image": "https://i.ibb.co/txDgNGr/horlix.webp",
+    "description": "Smooth mashed avocado, a nutritious source of healthy fats, vitamins, and minerals for your baby's brain development.",
+    "nutrients": {
+      "vitamins": ["Vitamin K", "Vitamin E"],
+      "minerals": ["Potassium", "Magnesium"]
+    },
+    "rating": 4.6
+  },
+  {
+    "isFlash": false,
+    "discountEndDate": "2024-03-22",
+    "price": 230,
+    "name": "Chicken Puree",
+
+    "category": "Proteins",
+    "image": "https://assets.babycenter.com/ims/2021/01/cow-and-gate-4-6-months-breakfast_4x3.jpg",
+    "description": "Tender chicken puree, rich in protein and essential amino acids, supporting muscle development and overall growth.",
+    "nutrients": {
+      "vitamins": ["Vitamin B12", "Vitamin D"],
+      "minerals": ["Iron", "Zinc"]
+    },
+    "rating": 4.5
+  },
+
+  {
+    "isFlash": true,
+    "discountEndDate": "2024-03-22",
+    "price": 210,
+    "discountPrice": 200,
+    "name": "Sweet Potato Mash",
+    "category": "Vegetables",
+    "image": "https://i.ibb.co/txDgNGr/horlix.webp",
+    "description": "Creamy mashed sweet potatoes, packed with beta-carotene and fiber, ideal for introducing vegetables to your baby's diet.",
+    "nutrients": {
+      "vitamins": ["Vitamin A", "Vitamin C"],
+      "minerals": ["Potassium", "Magnesium"]
+    },
+    "rating": 4.5
+  },
+  {
+    "isFlash": false,
+    "discountEndDate": "2024-03-22",
+    "price": 220,
+    "name": "Spinach Puree",
+    "category": "Vegetables",
+    "image": "https://i.ibb.co/txDgNGr/horlix.webp",
+    "description": "Smooth puree made from spinach, offering a burst of green goodness and vital nutrients for your baby's health.",
+    "nutrients": {
+      "vitamins": ["Vitamin K", "Vitamin A"],
+      "minerals": ["Iron", "Folate"]
+    },
+    "rating": 4.5
+  },
+  {
+    "isFlash": false,
+    "discountEndDate": "2024-03-22",
+    "price": 240,
+    "name": "Peach Puree",
+    "category": "Fruits",
+    "image": "https://i.ibb.co/txDgNGr/horlix.webp",
+    "description": "Smooth puree made from ripe peaches, providing natural sweetness and essential vitamins for baby's growth.",
+    "nutrients": {
+      "vitamins": ["Vitamin C", "Vitamin A"],
+      "minerals": ["Potassium", "Magnesium"]
+    },
+    "rating": 4.5
+  },
+  {
+    "isFlash": true,
+    "discountEndDate": "2024-03-22",
+    "price": 250,
+    "discountPrice": 200,
+    "name": "Broccoli Puree",
+    "category": "Vegetables",
+    "image": "https://i.ibb.co/txDgNGr/horlix.webp",
+    "description": "Smooth puree made from broccoli, rich in vitamins and minerals essential for baby's growth and development.",
+    "nutrients": {
+      "vitamins": ["Vitamin C", "Vitamin K"],
+      "minerals": ["Calcium", "Iron"]
+    },
+    "rating": 4.2
+  },
+  {
+    "isFlash": false,
+    "discountEndDate": "2024-03-22",
+    "price": 270,
+    "name": "Banana Rice Cereal",
+    "category": "Grains",
+    "image": "https://i.ibb.co/txDgNGr/horlix.webp",
+    "description": "Gentle rice cereal mixed with mashed bananas, easy to digest and fortified with essential nutrients for baby's development.",
+    "nutrients": {
+      "vitamins": ["Vitamin B", "Vitamin D"],
+      "minerals": ["Iron", "Zinc"]
+    },
+    "rating": 4.3
+  },
+  {
+    "isFlash": true,
+    "discountEndDate": "2024-03-22",
+    "price": 260,
+    "discountPrice": 200,
+    "name": "Pear Puree",
+    "category": "Fruits",
+    "image": "https://i.ibb.co/txDgNGr/horlix.webp",
+    "description": "Smooth puree made from ripe pears, providing natural sweetness and essential vitamins for baby's growth.",
+    "nutrients": {
+      "vitamins": ["Vitamin C", "Vitamin K"],
+      "minerals": ["Potassium", "Folate"]
+    },
+    "rating": 4.3
+  },
+  {
+    "isFlash": false,
+    "discountEndDate": "2024-03-22",
+    "price": 280,
+    "name": "Quinoa Porridge",
+    "category": "Grains",
+    "image": "https://i.ibb.co/txDgNGr/horlix.webp",
+    "description": "Nutritious quinoa porridge, packed with protein, fiber, and essential vitamins and minerals for baby's growth and development.",
+    "nutrients": {
+      "vitamins": ["Vitamin B", "Vitamin E"],
+      "minerals": ["Iron", "Magnesium"]
+    },
+    "rating": 4.5
+  },
+  {
+    "isFlash": true,
+    "discountEndDate": "2024-03-22",
+    "price": 300,
+    "discountPrice": 200,
+    "name": "Blueberry Puree",
+    "category": "Fruits",
+    "image": "https://i.ibb.co/txDgNGr/horlix.webp",
+    "description": "Smooth puree made from fresh blueberries, rich in antioxidants and essential vitamins for baby's growth and development.",
+    "nutrients": {
+      "vitamins": ["Vitamin C", "Vitamin K"],
+      "minerals": ["Potassium", "Magnesium"]
+    },
+    "rating": 4
+  },
+
+  {
+    "isFlash": false,
+    "discountEndDate": "2024-03-22",
+    "price": 250,
+    "name": "Pear and Oat Puree",
+    "category": "Fruits",
+    "image": "https://i.ibb.co/txDgNGr/horlix.webp",
+    "description": "Smooth puree made from ripe pears and oats, offering natural sweetness and fiber for baby's growth and digestion.",
+    "nutrients": {
+      "vitamins": ["Vitamin C", "Vitamin E"],
+      "minerals": ["Potassium", "Folate"]
+    },
+    "rating": 4.3
+  },
+  {
+    "isFlash": false,
+    "discountEndDate": "2024-03-22",
+    "price": 220,
+    "name": "Beef and Vegetable Mash",
+    "category": "Proteins",
+    "image": "https://i.ibb.co/txDgNGr/horlix.webp",
+    "description": "Tender beef mixed with mashed vegetables, providing protein and essential nutrients for baby's growth and development.",
+    "nutrients": {
+      "vitamins": ["Vitamin B12", "Vitamin D"],
+      "minerals": ["Iron", "Zinc"]
+    },
+    "rating": 4.2
+  },
+  {
+    "isFlash": true,
+    "discountEndDate": "2024-03-22",
+    "price": 230,
+    "discountPrice": 200,
+    "name": "Pumpkin Porridge",
+    "category": "Vegetables",
+    "image": "https://i.ibb.co/txDgNGr/horlix.webp",
+    "description": "Warm pumpkin porridge, rich in beta-carotene and fiber, promoting healthy digestion and growth for your baby.",
+    "nutrients": {
+      "vitamins": ["Vitamin A", "Vitamin C"],
+      "minerals": ["Potassium", "Magnesium"]
+    },
+    "rating": 4.5
+  },
+  {
+    "isFlash": false,
+    "discountEndDate": "2024-03-22",
+    "price": 240,
+    "name": "Apricot Puree",
+    "category": "Fruits",
+    "image": "https://i.ibb.co/txDgNGr/horlix.webp",
+    "description": "Smooth puree made from ripe apricots, providing natural sweetness and essential vitamins for baby's growth.",
+    "nutrients": {
+      "vitamins": ["Vitamin C", "Vitamin A"],
+      "minerals": ["Potassium", "Folate"]
+    },
+    "rating": 4.1
+  },
+  {
+    "isFlash": true,
+    "discountEndDate": "2024-03-22",
+    "price": 250,
+    "discountPrice": 200,
+    "name": "Lentil Puree",
+    "category": "Proteins",
+    "image": "https://i.ibb.co/txDgNGr/horlix.webp",
+    "description": "Smooth puree made from lentils, rich in protein and fiber, supporting muscle development and digestion for your baby.",
+    "nutrients": {
+      "vitamins": ["Vitamin B", "Vitamin K"],
+      "minerals": ["Iron", "Folate"]
+    },
+    "rating": 4.4
+  },
+  {
+    "isFlash": true,
+    "discountEndDate": "2024-03-22",
+    "price": 260,
+    "discountPrice": 200,
+    "name": "Mango Puree",
+    "category": "Fruits",
+    "image": "https://i.ibb.co/txDgNGr/horlix.webp",
+    "description": "Smooth puree made from ripe mangoes, providing natural sweetness and essential vitamins for baby's growth.",
+    "nutrients": {
+      "vitamins": ["Vitamin C", "Vitamin A"],
+      "minerals": ["Potassium", "Folate"]
+    },
+    "rating": 4.6
+  },
+  {
+    "isFlash": false,
+    "discountEndDate": "2024-03-22",
+    "price": 270,
+    "name": "Barley Porridge",
+    "category": "Grains",
+    "image": "https://i.ibb.co/txDgNGr/horlix.webp",
+    "description": "Nutritious barley porridge, packed with fiber and essential vitamins and minerals for baby's growth and development.",
+    "nutrients": {
+      "vitamins": ["Vitamin B", "Vitamin E"],
+      "minerals": ["Iron", "Magnesium"]
+    },
+    "rating": 4.7
+  },
+  {
+    "isFlash": true,
+    "discountEndDate": "2024-03-22",
+    "price": 280,
+    "discountPrice": 200,
+    "name": "Plum Puree",
+    "category": "Fruits",
+    "image": "https://i.ibb.co/txDgNGr/horlix.webp",
+    "description": "Smooth puree made from ripe plums, providing natural sweetness and essential vitamins for baby's growth.",
+    "nutrients": {
+      "vitamins": ["Vitamin C", "Vitamin K"],
+      "minerals": ["Potassium", "Folate"]
+    },
+    "rating": 4.2
+  },
+  {
+    "isFlash": false,
+    "discountEndDate": "2024-03-22",
+    "price": 260,
+    "name": "Carrot Puree",
+    "category": "Vegetables",
+    "image": "https://i.ibb.co/txDgNGr/horlix.webp",
+    "description": "Smooth puree made from carrots, rich in beta-carotene and essential vitamins for baby's growth and development.",
+    "nutrients": {
+      "vitamins": ["Vitamin A", "Vitamin K"],
+      "minerals": ["Potassium", "Folate"]
+    },
+    "rating": 4.7
+  },
+  {
+    "isFlash": false,
+    "discountEndDate": "2024-03-22",
+    "price": 250,
+    "name": "Pear and Oat Puree",
+    "category": "Fruits",
+    "image": "https://i.ibb.co/txDgNGr/horlix.webp",
+    "description": "Smooth puree made from ripe pears and oats, offering natural sweetness and fiber for baby's growth and digestion.",
+    "nutrients": {
+      "vitamins": ["Vitamin C", "Vitamin E"],
+      "minerals": ["Potassium", "Folate"]
+    },
+    "rating": 4.4
+  },
+  {
+    "isFlash": false,
+    "discountEndDate": "2024-03-22",
+    "price": 220,
+    "name": "Beef and Vegetable Mash",
+    "category": "Proteins",
+    "image": "https://i.ibb.co/txDgNGr/horlix.webp",
+    "description": "Tender beef mixed with mashed vegetables, providing protein and essential nutrients for baby's growth and development.",
+    "nutrients": {
+      "vitamins": ["Vitamin B12", "Vitamin D"],
+      "minerals": ["Iron", "Zinc"]
+    },
+    "rating": 4.5
+  },
+  {
+    "isFlash": false,
+    "discountEndDate": "2024-03-22",
+    "price": 230,
+    "name": "Pumpkin Porridge",
+    "category": "Vegetables",
+    "image": "https://i.ibb.co/txDgNGr/horlix.webp",
+    "description": "Warm pumpkin porridge, rich in beta-carotene and fiber, promoting healthy digestion and growth for your baby.",
+    "nutrients": {
+      "vitamins": ["Vitamin A", "Vitamin C"],
+      "minerals": ["Potassium", "Magnesium"]
+    },
+    "rating": 4.2
+  },
+  {
+    "isFlash": false,
+    "discountEndDate": "2024-03-22",
+    "price": 240,
+    "name": "Apricot Puree",
+    "category": "Fruits",
+    "image": "https://i.ibb.co/txDgNGr/horlix.webp",
+    "description": "Smooth puree made from ripe apricots, providing natural sweetness and essential vitamins for baby's growth.",
+    "nutrients": {
+      "vitamins": ["Vitamin C", "Vitamin A"],
+      "minerals": ["Potassium", "Folate"]
+    },
+    "rating": 4.9
+  },
+  {
+    "isFlash": true,
+    "discountEndDate": "2024-03-22",
+    "price": 250,
+    "discountPrice": 200,
+    "name": "Lentil Puree",
+    "category": "Proteins",
+    "image": "https://i.ibb.co/txDgNGr/horlix.webp",
+    "description": "Smooth puree made from lentils, rich in protein and fiber, supporting muscle development and digestion for your baby.",
+    "nutrients": {
+      "vitamins": ["Vitamin B", "Vitamin K"],
+      "minerals": ["Iron", "Folate"]
+    },
+    "rating": 4.7
+  },
+  {
+    "isFlash": false,
+    "discountEndDate": "2024-03-22",
+    "price": 260,
+    "name": "Mango Puree",
+    "category": "Fruits",
+    "image": "https://i.ibb.co/txDgNGr/horlix.webp",
+    "description": "Smooth puree made from ripe mangoes, providing natural sweetness and essential vitamins for baby's growth.",
+    "nutrients": {
+      "vitamins": ["Vitamin C", "Vitamin A"],
+      "minerals": ["Potassium", "Folate"]
+    },
+    "rating": 4.8
+  },
+  {
+    "isFlash": false,
+    "discountEndDate": "2024-03-22",
+    "price": 270,
+    "name": "Barley Porridge",
+    "category": "Grains",
+    "image": "https://i.ibb.co/txDgNGr/horlix.webp",
+    "description": "Nutritious barley porridge, packed with fiber and essential vitamins and minerals for baby's growth and development.",
+    "nutrients": {
+      "vitamins": ["Vitamin B", "Vitamin E"],
+      "minerals": ["Iron", "Magnesium"]
+    },
+    "rating": 4.6
+  },
+  {
+    "isFlash": false,
+    "discountEndDate": "2024-03-22",
+    "price": 280,
+    "name": "Plum Puree",
+    "category": "Fruits",
+    "image": "https://i.ibb.co/txDgNGr/horlix.webp",
+    "description": "Smooth puree made from ripe plums, providing natural sweetness and essential vitamins for baby's growth.",
+    "nutrients": {
+      "vitamins": ["Vitamin C", "Vitamin K"],
+      "minerals": ["Potassium", "Folate"]
+    },
+    "rating": 4.5
+  },
+  {
+    "isFlash": false,
+    "discountEndDate": "2024-03-22",
+    "price": 290,
+    "name": "Apple and Cinnamon Puree",
+    "category": "Fruits",
+    "image": "https://i.ibb.co/txDgNGr/horlix.webp",
+    "description": "Smooth puree made from fresh apples and a hint of cinnamon, offering a delicious taste and essential vitamins for baby's growth.",
+    "nutrients": {
+      "vitamins": ["Vitamin C", "Vitamin K"],
+      "minerals": ["Potassium", "Folate"]
+    },
+    "rating": 4.7
+  },
+  {
+    "isFlash": false,
+    "discountEndDate": "2024-03-22",
+    "price": 300,
+    "name": "Kiwi Puree",
+    "category": "Fruits",
+    "image": "https://i.ibb.co/txDgNGr/horlix.webp",
+    "description": "Smooth puree made from ripe kiwis, providing natural sweetness and essential vitamins for baby's growth.",
+    "nutrients": {
+      "vitamins": ["Vitamin C", "Vitamin K"],
+      "minerals": ["Potassium", "Folate"]
+    },
+    "rating": 4.6
+  },
+  {
+    "isFlash": false,
+    "discountEndDate": "2024-03-22",
+    "price": 310,
+    "name": "Beetroot Puree",
+    "category": "Vegetables",
+    "image": "https://i.ibb.co/txDgNGr/horlix.webp",
+    "description": "Smooth puree made from fresh beetroot, rich in antioxidants and essential vitamins for baby's growth and development.",
+    "nutrients": {
+      "vitamins": ["Vitamin C", "Vitamin A"],
+      "minerals": ["Potassium", "Folate"]
+    },
+    "rating": 4.4
+  },
+  {
+    "isFlash": false,
+    "discountEndDate": "2024-03-22",
+    "price": 310,
+    "name": "Beetroot Puree",
+    "category": "Vegetables",
+    "image": "https://i.ibb.co/txDgNGr/horlix.webp",
+    "description": "Smooth puree made from fresh beetroot, rich in antioxidants and essential vitamins for baby's growth and development.",
+    "nutrients": {
+      "vitamins": ["Vitamin C", "Vitamin A"],
+      "minerals": ["Potassium", "Folate"]
+    },
+    "rating": 4.4
+  },
+  {
+    "isFlash": false,
+    "discountEndDate": "2024-03-22",
+    "price": 330,
+    "name": "Blackberry Puree",
+    "category": "Fruits",
+    "image": "https://i.ibb.co/txDgNGr/horlix.webp",
+    "description": "Smooth puree made from fresh blackberries, rich in antioxidants and essential vitamins for baby's growth and development.",
+    "nutrients": {
+      "vitamins": ["Vitamin C", "Vitamin K"],
+      "minerals": ["Potassium", "Folate"]
+    },
+    "rating": 4.6
+  },
+  {
+    "isFlash": true,
+    "discountEndDate": "2024-03-22",
+    "price": 340,
+    "discountPrice": 200,
+    "name": "Codfish Puree",
+    "category": "Proteins",
+    "image": "https://i.ibb.co/txDgNGr/horlix.webp",
+    "description": "Smooth puree made from codfish, rich in protein and omega-3 fatty acids, essential for brain development and growth.",
+    "nutrients": {
+      "vitamins": ["Vitamin D", "Vitamin B12"],
+      "minerals": ["Iron", "Zinc"]
+    },
+    "rating": 4.7
+  },
+  {
+    "isFlash": true,
+    "discountEndDate": "2024-03-22",
+    "price": 350,
+    "discountPrice": 200,
+    "name": "Strawberry Puree",
+    "category": "Fruits",
+    "image": "https://i.ibb.co/txDgNGr/horlix.webp",
+    "description": "Smooth puree made from fresh strawberries, providing natural sweetness and essential vitamins for baby's growth.",
+    "nutrients": {
+      "vitamins": ["Vitamin C", "Vitamin K"],
+      "minerals": ["Potassium", "Folate"]
+    },
+    "rating": 4.9
+  },
+  {
+    "isFlash": true,
+    "discountEndDate": "2024-03-22",
+    "price": 360,
+    "discountPrice": 200,
+    "name": "Salmon Puree",
+    "category": "Proteins",
+    "image": "https://i.ibb.co/txDgNGr/horlix.webp",
+    "description": "Smooth puree made from salmon, rich in protein and omega-3 fatty acids, essential for brain development and growth.",
+    "nutrients": {
+      "vitamins": ["Vitamin D", "Vitamin B12"],
+      "minerals": ["Calcium", "Iron"]
+    },
+    "rating": 4.8
+  }
+]
