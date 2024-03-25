@@ -8,7 +8,7 @@ const NotFound = () => {
       <Image
         width={400}
         height={400}
-        src={"https://i.ibb.co/qM1dgyL/5203299-removebg-preview.png"}
+        src={"https://i.ibb.co/C6g7zFw/error-page.jpg"}
         alt=""
       />
       <Link
