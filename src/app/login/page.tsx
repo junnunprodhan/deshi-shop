@@ -11,7 +11,7 @@ const LoginPage = () => {
       <div className="max-w-[800px] mx-auto my-12 p-6 bg-white shadow-md sm:px-8 sm:py-10 lg:px-12 lg:py-16 relative h-screen flex items-center">
         <Link
           href={"/"}
-          className=" absolute border px-4 py-1 border-red-400 outline-none hover:bg-red-200 duration-300 flex justify-center items-center gap-2 top-0"
+          className=" absolute border px-4 py-1 border-green-400 outline-none hover:bg-green-200 duration-300 flex justify-center items-center gap-2 top-0"
         >
           <IoMdHome />
           <button>Back Home</button>
@@ -27,11 +27,11 @@ const LoginPage = () => {
               </div>
               <div className="flex items-center space-x-2 mb-6 text-sm">
                 <p>Do you want to crate account</p>{" "}
-                <Link className=" text-orange-400 underline" href={"/register"}>
+                <Link className=" text-green-400 underline" href={"/register"}>
                   Register now
                 </Link>
               </div>
-              <button className="inline-flex items-center justify-center rounded-md text-sm font-medium  h-10 px-4 py-2 w-full bg-red-600 text-white">
+              <button className="inline-flex items-center justify-center rounded-md text-sm font-medium  h-10 px-4 py-2 w-full bg-green-600 text-white">
                 LOG IN
               </button>
             </form>

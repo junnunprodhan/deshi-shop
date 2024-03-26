@@ -54,7 +54,7 @@ const Footer = () => {
                 className=" hover:underline hover:text-red-300"
                 href={"/flash-sale"}
               >
-                Flash-sale
+                Trending Products
               </Link>
               <Link
                 className=" hover:underline hover:text-red-300"

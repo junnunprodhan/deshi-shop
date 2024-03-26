@@ -23,11 +23,11 @@ const Register = () => {
           </div>
           <div className="flex items-center space-x-2 mb-6 text-sm">
             <p>Do you have account</p>{" "}
-            <Link className=" text-orange-400 underline" href={"/login"}>
+            <Link className=" text-green-400 underline" href={"/login"}>
               Login now
             </Link>
           </div>
-          <button className="inline-flex items-center justify-center rounded-md text-sm font-medium  h-10 px-4 py-2 w-full bg-red-600 text-white">
+          <button className="inline-flex items-center justify-center rounded-md text-sm font-medium  h-10 px-4 py-2 w-full bg-green-600 text-white">
             REGISTER
           </button>
         </form>
@@ -37,3 +37,6 @@ const Register = () => {
 };
 
 export default Register;
+
+
+

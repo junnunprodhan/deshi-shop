@@ -7,9 +7,9 @@
     "price": 230,
     "discountPrice": 200,
     "name": "Whole Milk",
-    "category": "Milk",
-    "image": "https://metro-b2c.s3.ap-southeast-1.amazonaws.com/Misc/1686560126390",
-    "description": "Whole cow's milk, a rich source of calcium and vitamin D essential for baby's bone health and growth.",
+    "category": "Soap",
+    "image": "https://i.ibb.co/myTQwJN/lux-soap.jpg",
+    "description": "lux a rich source of calcium and vitamin D essential for baby's bone health and growth.",
     "nutrients": {
       "vitamins": ["Vitamin D", "Vitamin B12"],
       "minerals": ["Calcium", "Phosphorus"]
