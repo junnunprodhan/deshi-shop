@@ -1,18 +1,18 @@
 [
   {
-    "isFlash": true,
+    "isFlash": false,
     "discountEndDate": "2024-03-22",
     "price": 230,
     "discountPrice": 200,
-    "name": "Whole Milk",
-    "category": "Milk",
-    "image": "https://metro-b2c.s3.ap-southeast-1.amazonaws.com/Misc/1686560126390",
-    "description": "Whole cow's milk, a rich source of calcium and vitamin D essential for baby's bone health and growth.",
+    "name": "Dove Shampoo",
+    "category": "Shampoo",
+    "image": "https://i.ibb.co/px7Yn0Q/1695135322-dove-dermacare-scalp-anti-dandruff-shampoo-6509b64f2bd3d.jpg",
+    "description": "salt a rich source of calcium and vitamin D essential for baby's bone health and growth.",
     "nutrients": {
       "vitamins": ["Vitamin D", "Vitamin B12"],
       "minerals": ["Calcium", "Phosphorus"]
     },
-    "rating": 4.2
+    "rating": 4.5
   },
   {
     "isFlash": true,

@@ -27,7 +27,6 @@ const Header = () => {
                 height={40}
               />
             </p>
-            <h4 className="text-xl"><span className="text-red-500">D</span>Shop</h4>
           </Link>
         </div>
 

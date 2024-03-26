@@ -5,7 +5,7 @@ import React from "react";
 
 const page = async ({ params }: { params: { productId: string } }) => {
   
-  const res = await fetch(`http://localhost:5000/product/${params.productId}`);
+  const res = await fetch(`https://deshi-shop-server.vercel.app/product/${params.productId}`);
   const data = await res.json();
   console.log(data)
 

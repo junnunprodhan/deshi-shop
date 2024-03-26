@@ -2,16 +2,6 @@ import { TProduct } from "@/Types/Global";
 import DetailsCard from "@/component/DetailsCard";
 import BrandHeader from "@/component/BrandHeader";
 
-// export const generateStaticParams = async ({ params }: { params: any }) => {
-//   const res = await fetch(
-//     "http://localhost:5000/products"
-//   );
-//   const data = await res.json();
-
-//   return data.map((item: TProduct) => ({
-//     flashId: item?.id.toString(),
-//   }));
-// };
 
 const FlashDetailsPage = async ({ params }: { params: any }) => {
   const res = await fetch(`https://deshi-shop-server.vercel.app/product/${params?.flashId}`);

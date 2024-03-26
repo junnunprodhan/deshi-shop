@@ -27,8 +27,8 @@ const Table = ({ product }: { product: TProduct }) => {
           ${product?.price}
         </td>
         <td className="py-4 px-6 border-b text-end">
-          <Button className="">
-            <GrTrash className="  z-20" />
+          <Button className=" bg-white">
+            <GrTrash className=" text-red-600  z-20" />
           </Button>
         </td>
       </tr>

@@ -7,13 +7,13 @@ import React, { ReactNode } from "react";
 const layout = ({ children }: { children: ReactNode }) => {
   return (
     <div>
-      <div className=" sticky top-0 bg-gradient bg-black flex justify-between  items-center z-50">
+      <div className=" sticky top-0 bg-gradient bg-[#90D26D] flex justify-between  items-center z-50">
         <Link href={"/"}>
           <Image
             width={30}
             height={30}
             src={
-              "https://cdn-icons-png.freepik.com/256/4608/4608448.png?ga=GA1.1.228051697.1693212978&"
+              "https://i.ibb.co/DW9zzwL/deshi-removebg-preview.png"
             }
             alt=""
           />

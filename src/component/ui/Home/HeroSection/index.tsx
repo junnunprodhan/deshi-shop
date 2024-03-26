@@ -9,18 +9,6 @@ import slider6 from "../../../../assets/images/salt.jpg";
 import { KeenSliderInstance, useKeenSlider } from "keen-slider/react";
 import "keen-slider/keen-slider.min.css";
 import Image from "next/image";
-// import Container from "../../Container";
-// import {
-//   FaBicycle,
-//   FaHeadset,
-//   FaPercent,
-//   FaShopify,
-//   FaTshirt,
-//   FaUtensils,
-// } from "react-icons/fa";
-// import { HiDeviceTablet, HiOutlineWifi } from "react-icons/hi";
-// import { LuWatch, LuYoutube } from "react-icons/lu";
-// import { HiOutlineComputerDesktop } from "react-icons/hi2";
 import { Button } from "antd";
 
 export default function HeroSection() {
