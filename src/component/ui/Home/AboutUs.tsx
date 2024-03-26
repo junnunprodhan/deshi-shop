@@ -53,7 +53,7 @@ const AboutUs = () => {
             width={500}
             height={500}
             src={
-              "https://media.istockphoto.com/id/186560911/photo/feeding-excited-baby.jpg?s=1024x1024&w=is&k=20&c=iJrszhNKeudOm7EVIryGCfJzXO7Fascn_Cx5iYmUkXg="
+              "https://i.ibb.co/MstPzkn/Photo.png"
             }
             alt=""
             className=" border-4 p-1 md:h-[350px] md:w-[400px] object-cover w-[300px]"
@@ -62,7 +62,7 @@ const AboutUs = () => {
             width={400}
             height={400}
             src={
-              "https://media.istockphoto.com/id/1156492841/photo/vegetable-and-fruit-baby-puree-in-white-bowls-with-ingredients-baby-food-concept.jpg?s=1024x1024&w=is&k=20&c=U-i1HlM77DzNaGVX7i0dS5ojE9nkI-49pEvj3Y1Yl2A="
+              "https://media.istockphoto.com/id/1402604850/photo/the-word-about-us-on-wooden-cubes-business-communication-and-information.webp?b=1&s=170667a&w=0&k=20&c=M1zgL2pGwZ_g3cwmOvdMtzz92PlTLdihv6_wgaW1QZc="
             }
             alt=""
             className=" border-4 p-1 rounded-lg absolute md:top-40 top-20 left-24 md:left-44 md:w-[300px] md:h-[240px] w-[230px]"

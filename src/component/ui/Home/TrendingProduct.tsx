@@ -5,9 +5,11 @@ import Button from "@/component/Button";
 import ProductsCard from "@/component/ProductsCard";
 
 const TrendingProduct = async () => {
-  const res = await fetch(
-    "https://deshi-shop-server.vercel.app/products"
-  );
+  const res = await fetch("https://deshi-shop-server.vercel.app/products", {
+    next: {
+      revalidate: 30,
+    },
+  });
   const data = await res.json();
 
   data.sort((a: TProduct, b: TProduct) => b.rating - a.rating);

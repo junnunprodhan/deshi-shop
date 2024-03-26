@@ -5,11 +5,7 @@ import slider from "../../../../assets/images/fresh-oil.jpg";
 import slider2 from "../../../../assets/images/keya-soap.jpg";
 import slider3 from "../../../../assets/images/sunsilk-shampoo.webp";
 import slider4 from "../../../../assets/images/lux-soap.jpg";
-import slider6 from "../../../../assets/images/slider3.webp";
-import slider7 from "../../../../assets/images/slider4.webp";
-import slider8 from "../../../../assets/images/slider5.jpg";
-import slider9 from "../../../../assets/images/slider6.webp";
-import slider10 from "../../../../assets/images/headphone.png";
+import slider6 from "../../../../assets/images/salt.jpg";
 import { KeenSliderInstance, useKeenSlider } from "keen-slider/react";
 import "keen-slider/keen-slider.min.css";
 import Image from "next/image";
@@ -89,7 +85,7 @@ export default function HeroSection() {
                     <small>FROM</small>
                     <div className=" flex items-center ">
                       <sup className="text-2xl font-semibold">$</sup>
-                      <span className="text-5xl font-bold">799</span>
+                      <span className="text-5xl font-bold">10</span>
                       <sup className="text-xl font-semibold">99</sup>
                     </div>
                     <button className="px-5 py-2 text-white bg-[#2251CF] border rounded-sm text-xl">
@@ -110,7 +106,7 @@ export default function HeroSection() {
                     <small>FROM</small>
                     <div className=" flex items-center ">
                       <sup className="text-2xl font-semibold">$</sup>
-                      <span className="text-5xl font-bold">799</span>
+                      <span className="text-5xl font-bold">7</span>
                       <sup className="text-xl font-semibold">99</sup>
                     </div>
                     <button className="px-5 py-2 text-white bg-[#2251CF] border rounded-sm text-xl">
@@ -125,13 +121,13 @@ export default function HeroSection() {
                 <div className="flex items-center sliderContentWrap">
                   <div className="sliderContent">
                     <h3 className="text-5xl font-semibold uppercase">
-                      The New standard
+                      Lux Soap
                     </h3>
                     <p className="my-3">very good products, you can buy</p>
                     <small>FROM</small>
                     <div className=" flex items-center ">
                       <sup className="text-2xl font-semibold">$</sup>
-                      <span className="text-5xl font-bold">799</span>
+                      <span className="text-5xl font-bold">7</span>
                       <sup className="text-xl font-semibold">99</sup>
                     </div>
                     <button className="px-5 py-2 text-white bg-[#2251CF] border rounded-sm text-xl">
@@ -146,91 +142,7 @@ export default function HeroSection() {
                 <div className="flex items-center sliderContentWrap">
                   <div className="sliderContent">
                     <h3 className="text-5xl font-semibold uppercase">
-                      The New standard
-                    </h3>
-                    <p className="my-3">very good products, you can buy</p>
-                    <small>FROM</small>
-                    <div className=" flex items-center ">
-                      <sup className="text-2xl font-semibold">$</sup>
-                      <span className="text-5xl font-bold">799</span>
-                      <sup className="text-xl font-semibold">99</sup>
-                    </div>
-                    <button className="px-5 py-2 text-white bg-[#2251CF] border rounded-sm text-xl">
-                      {" "}
-                      Start Buying
-                    </button>
-                  </div>
-                  <Image src={slider6} alt="slider" width="500" height="500" />
-                </div>
-              </div>
-              <div className="keen-slider__slide number-slide1">
-                <div className="flex items-center sliderContentWrap">
-                  <div className="sliderContent">
-                    <h3 className="text-5xl font-semibold uppercase">
-                      The New standard
-                    </h3>
-                    <p className="my-3">very good products, you can buy</p>
-                    <small>FROM</small>
-                    <div className=" flex items-center ">
-                      <sup className="text-2xl font-semibold">$</sup>
-                      <span className="text-5xl font-bold">799</span>
-                      <sup className="text-xl font-semibold">99</sup>
-                    </div>
-                    <button className="px-5 py-2 text-white bg-[#2251CF] border rounded-sm text-xl">
-                      {" "}
-                      Start Buying
-                    </button>
-                  </div>
-                  <Image src={slider7} alt="slider" width="500" height="500" />
-                </div>
-              </div>
-              <div className="keen-slider__slide number-slide1">
-                <div className="flex items-center sliderContentWrap">
-                  <div className="sliderContent">
-                    <h3 className="text-5xl font-semibold uppercase">
-                      The New standard
-                    </h3>
-                    <p className="my-3">very good products, you can buy</p>
-                    <small>FROM</small>
-                    <div className=" flex items-center ">
-                      <sup className="text-2xl font-semibold">$</sup>
-                      <span className="text-5xl font-bold">799</span>
-                      <sup className="text-xl font-semibold">99</sup>
-                    </div>
-                    <button className="px-5 py-2 text-white bg-[#2251CF] border rounded-sm text-xl">
-                      {" "}
-                      Start Buying
-                    </button>
-                  </div>
-                  <Image src={slider8} alt="slider" width="500" height="500" />
-                </div>
-              </div>
-              <div className="keen-slider__slide number-slide1">
-                <div className="flex items-center sliderContentWrap">
-                  <div className="sliderContent">
-                    <h3 className="text-5xl font-semibold uppercase">
-                      The New standard
-                    </h3>
-                    <p className="my-3">very good products, you can buy</p>
-                    <small>FROM</small>
-                    <div className=" flex items-center ">
-                      <sup className="text-2xl font-semibold">$</sup>
-                      <span className="text-5xl font-bold">799</span>
-                      <sup className="text-xl font-semibold">99</sup>
-                    </div>
-                    <button className="px-5 py-2 text-white bg-[#2251CF] border rounded-sm text-xl">
-                      {" "}
-                      Start Buying
-                    </button>
-                  </div>
-                  <Image src={slider9} alt="slider" width="500" height="500" />
-                </div>
-              </div>
-              <div className="keen-slider__slide number-slide1">
-                <div className="flex items-center sliderContentWrap">
-                  <div className="sliderContent">
-                    <h3 className="text-5xl font-semibold uppercase">
-                      The New standard
+                      fresh salt
                     </h3>
                     <p className="my-3">very good products, you can buy</p>
                     <small>FROM</small>
@@ -244,9 +156,9 @@ export default function HeroSection() {
                       Start Buying
                     </button>
                   </div>
-                  <Image src={slider10} alt="slider" width="500" height="500" />
+                  <Image src={slider6} alt="slider" width="500" height="500" />
                 </div>
-              </div>
+              </div>      
             </div>
             {loaded && instanceRef.current && (
               <>

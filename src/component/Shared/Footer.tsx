@@ -9,7 +9,7 @@ import Container from "../Container/Container";
 const Footer = () => {
   return (
     <Container>
-      <div className="bg-[#90D26D] space-y-6 py-10">
+      <div className="bg-[#90D26D] space-y-6 py-10 my-10">
         <div className=" grid grid-cols-1 md:grid-cols-5 px-7 space-y-10 md:justify-items-center text-white">
           <div>
             <p className=" text-xl mt-10">Follow</p>
@@ -105,11 +105,11 @@ const Footer = () => {
               <p>Need help href plan traveling? Contact our travel expert</p>
               <p className=" flex items-center gap-3">
                 <MdOutlineAddIcCall size={30} className=" text-orange-300" />{" "}
-                0(500)123-456
+               +966547890987
               </p>
               <p className=" flex items-center gap-3">
                 <CgMail size={30} className=" text-orange-300" />
-                testmail@gmail.com
+                deshishop@gmail.com
               </p>
             </div>
           </div>
@@ -154,7 +154,7 @@ const Footer = () => {
         </div>
         <hr className=" w-[95%] mx-auto" />
         <p className=" text-center text-white">
-          &copy; 2024 developed by baby care All Right Reserved.
+          &copy; 2024 developed by deshi shop All Right Reserved.
         </p>
       </div>
     </Container>

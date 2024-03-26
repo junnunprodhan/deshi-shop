@@ -16,17 +16,18 @@ const Header = () => {
     <div className=" z-20 fixed w-full ">
       <div className=" flex px-3 text-white font-semibold max-w-[1280px] text-[16px]  bg-[#90D26D] w-full h-14 mx-auto">
         <div className=" flex items-center">
-          <Link href={""}>
+          <Link className="flex items-center" href={""}>
             <p className=" flex items-center gap-1 text-[32px]">
               {/* <p className=" text-xl flex items-center mb-3">Winter</p> */}
               <Image
                 className=" flex items-center size-10"
-                src="https://i.ibb.co/8XQMstw/download-7-removebg-preview.png"
+                src="https://i.ibb.co/DW9zzwL/deshi-removebg-preview.png"
                 alt=""
-                width={40}
+                width={60}
                 height={40}
               />
             </p>
+            <h4 className="text-xl"><span className="text-red-500">D</span>Shop</h4>
           </Link>
         </div>
 

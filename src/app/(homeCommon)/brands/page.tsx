@@ -13,7 +13,7 @@ const page = async () => {
     <div>
       <BrandHeader
         name="Brand"
-        image="https://assets.babycenter.com/ims/2021/01/cow-and-gate-4-6-months-breakfast_4x3.jpg"
+        image="https://i.ibb.co/0mCnq7y/pngtree-taobao-vector-creative-technology-online-shopping-illustration-computer-finger-poster-image.jpg"
         category=""
       />
       <div className=" grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-20 my-14">

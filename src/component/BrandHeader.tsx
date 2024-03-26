@@ -20,7 +20,7 @@ const BrandHeader = ({
         }}
         className=" z-[-1]"
       >
-        <div className=" bg-black w-full h-[400px] opacity-80"></div>
+        <div className=" bg-black w-full h-[400px] opacity-50"></div>
       </div>
       <div className=" absolute top-[40%] md:left-0  text-center w-full text-white">
         <div>

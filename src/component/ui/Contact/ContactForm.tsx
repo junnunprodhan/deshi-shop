@@ -8,7 +8,7 @@ import { TiLocationArrow } from "react-icons/ti";
 import TextArea from "@/component/Input/TextArea";
 
 const ContactForm = () => {
-  const [state, handleSubmit] = useForm("xrgwllzg");
+  const [state, handleSubmit] = useForm("xjvnodlw");
   if (state.succeeded) {
     toast.success("message send successful");
   }
