@@ -1,18 +1,39 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+
 
 ## Getting Started
 
-First, run the development server:
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+### Locally run this project
+# client side : npm run dev
+# server side : npm run start
+
+### Technology:
+ ## Frontend
+  # React js, TypeScript, Tailwind css, ANTdesign, NextUI , .
+
+## Backend
+ # Node js, Express js
+
+## Database
+ # MongoDB
+
+## Animation
+ # Framer Motion 
+
+### Feature:
+ ## Flash sale offer
+ ## Dashboard
+ # Single details page for products.
+ # User can see offer flash sale product.
+ # User can choose best categories from all products.
+ # User see top rating products.
+## Full mobile first responsive UI design in Fixel perfect.
+
+
+client side live link url: https://polite-kangaroo-a8701a.netlify.app/
+server side live url: https://deshi-shop-server.vercel.app/
+
+
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
@@ -34,4 +55,5 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
 # deshi-shop
