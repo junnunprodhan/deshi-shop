@@ -30,14 +30,14 @@ const Header = () => {
           </Link>
         </div>
 
-        <div className=" w-full  md:z-0 z-20 flex justify-end">
+        <div className=" w-full md:z-0 z-20 flex justify-end">
           <div className=" absolute right-2 top-2">
             <span onClick={HandleHeader} className="md:hidden">
               {isOpen ? <AiOutlineClose size={25} /> : <FaBars size={25} />}
             </span>
           </div>
           <div
-            className={` md:flex  items-center justify-end  h-14  gap-10 py-2 absolute  md:space-y-0 space-y-4 ${
+            className={` md:flex items-center justify-end h-14  gap-10 py-2 absolute  md:space-y-0 space-y-4 ${
               isOpen
                 ? "bg-[#90D26D] z-10 left-0 top-[58px] w-full h-screen px-5 transition-all delay-100 duration-600"
                 : "-left-[450px] h-screen md:h-14 md:left-auto "

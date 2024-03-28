@@ -30,7 +30,7 @@
 ## Full mobile first responsive UI design in Fixel perfect.
 
 
-client side live link url: https://polite-kangaroo-a8701a.netlify.app/
+client side live link url: https://deshi-shop.netlify.app/
 server side live url: https://deshi-shop-server.vercel.app/
 
 
