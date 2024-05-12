@@ -15,6 +15,7 @@ const FlashSale = async () => {
   return (
     <div className=" mt-20 px-2">
       <FlashSaleTime />
+      
       <div className=" flex justify-between items-center">
        
       </div>

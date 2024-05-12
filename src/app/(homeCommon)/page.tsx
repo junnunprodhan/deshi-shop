@@ -7,17 +7,18 @@ import HeroSection from "@/component/ui/Home/HeroSection";
 import Service from "@/component/ui/Home/CustomerSupport";
 import TrendingProduct from "@/component/ui/Home/TrendingProduct";
 
+
 export default function Home() {
   return (
-    <div className="">
-      <HeroSection/>
+    <>
+      {/* <HeroSection/> */}
       <FlashSale />
       <Brand />
-      <Gallery />
       <TrendingProduct />
+      <Gallery />
       <AboutUs />
       <Service />
       <Contact />
-    </div>
+    </>
   );
 }

@@ -17,14 +17,15 @@ const BrandDetails = async ({
 }: {
   params: { category: string; brandId: string };
 }) => {
-  console.log(params)
+  // console.log(params)
   const res = await fetch(`https://deshi-shop-server.vercel.app/products/${params.brandId}`);
   const data = await res.json();
-  console.log(data);
+  console.log(data)
+  // console.log(data);
 
   return (
     <div>
-      <BrandHeader name="Brads" category={params.category} image={data.image} />
+      <BrandHeader name="Brands" category={params.category} image={data.image} />
       <div className=" my-20">
         {data.map((product: TProduct) => (
           <DetailsCard key={product?._id} product={product} />

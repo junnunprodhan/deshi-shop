@@ -7,27 +7,48 @@
 # client side : npm run dev
 # server side : npm run start
 
-### Technology:
- ## Frontend
-  # React js, TypeScript, Tailwind css, ANTdesign, NextUI , .
+## Features
 
-## Backend
- # Node js, Express js
+### General features
 
-## Database
- # MongoDB
+- Fully Responsive Design for all devices
+- Customizable User Dashboard
+- Loading
+- Social Media Integration
+- Filter by category, price & rating
 
-## Animation
- # Framer Motion 
+### Pages
 
-### Feature:
- ## Flash sale offer
- ## Dashboard
- # Single details page for products.
- # User can see offer flash sale product.
- # User can choose best categories from all products.
- # User see top rating products.
-## Full mobile first responsive UI design in Fixel perfect.
+- Home
+- User Dashboard
+- All product
+- Flash Sale
+- Trending Products
+- Product Details Page
+- Login & Register
+
+### Tech Stack
+
+- React JS
+- Next JS
+- Typescript
+- Tailwind CSS
+- Shadcn UI
+
+### Packages
+
+- radix-ui/react-slot
+- class-variance-authority
+- clsx
+- lucide-react
+- next
+- next-auth
+- react
+- react-dom
+- react-hook-form
+- swiper
+- tailwind-merge
+- tailwindcss-animate
 
 
 client side live link url: https://deshi-shop.netlify.app/
@@ -37,23 +58,6 @@ server side live url: https://deshi-shop-server.vercel.app/
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 
 # deshi-shop
