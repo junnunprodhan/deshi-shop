@@ -51,7 +51,7 @@
 - tailwindcss-animate
 
 
-client side live link url: https://deshi-shop.netlify.app/
+client side live link url: https://deshi-shop-app.onrender.com/
 server side live url: https://deshi-shop-server.vercel.app/
 
 
